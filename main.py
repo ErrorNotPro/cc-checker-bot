@@ -8,9 +8,9 @@ import time
 PREFIX = "!/."
 
 
-OWNER = ["5136746907"]
+OWNER = ["6181269269"]
 
-OWNER_NAME = "@I_M_R_A_S"
+OWNER_NAME = "@ERR0R9"
 
 CHANNEL = "https://t.me/cyberassemble"
 
